@@ -1,0 +1,2 @@
+#!/bin/bash
+claude -p "Run the reflect-and-learn skill: read ~/.claude/skills/reflect-and-learn/SKILL.md and follow all execution instructions. Review the past week's sessions, launch all 6 analysis agents in parallel, run multi-voice debate with Gemini and Codex, score proposals via the rubric, adopt P0/P1 changes, flag HIGH-IMPACT for next interactive session, write the reflection report, update the scoreboard, and commit all changes."
